@@ -1,2 +1,2 @@
 # odin-recipes
-Some recipes compiled with help from The Odin Project
+The goal of this project is to compile some recipes in HTML
