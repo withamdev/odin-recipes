@@ -1,0 +1,44 @@
+body {
+    background-color: #ccece2;
+    color: #a13559;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.links {
+    text-align: center;
+    font-size: 30px;
+    list-style: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+p {
+    text-align: center;
+}
+
+.block-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+  }
